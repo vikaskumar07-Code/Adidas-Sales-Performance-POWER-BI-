@@ -1,4 +1,4 @@
-# Adidas-Sales-Performance-POWER-BI-
+# Adidas-Sales-Performance (POWER-BI)
 ## Project Overview
 This project presents an interactive **Sales Performance Dashboard** built using **Power BI** to analyze Adidas sales data for the years **2020 and 2021**.
 The dashboard provides insights into **regional performance, sales trends, retailer contribution, product categories, and sales channels**, helping stakeholders make data-driven decisions.
